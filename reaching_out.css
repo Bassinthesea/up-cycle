@@ -1,0 +1,49 @@
+#ReachingOut{
+    min-height: 125px;
+    width: 100%;
+    background-color: rgb(14, 46, 71);
+    color: white
+}
+
+#Volunteer_oppertunity{
+    text-align: center;
+    min-height: 225px;
+    width: 100%;
+    background-color: rgb(14, 46, 71);
+    color: teal
+}
+
+#interested{
+    min-height: 100px;
+    width: 100%;
+    background-color: rgb(14, 46, 71);
+    color: white
+}
+
+#info_slot{
+    min-height: 75px;
+    width: 100%;
+    background-color: rgb(14, 46, 71);
+    color: teal
+}
+
+#info_fill{
+    min-height: 150px;
+    width: 100%;
+    background-color: rgb(14, 46, 71);
+    color: white
+}
+
+#sign_up_description{
+    min-height: 300px;
+    width: 100%;
+    background-color: rgb(14, 46, 71);
+    color: greenyellow
+}
+
+#sign_up{
+    min-height: 350px;
+    width: 100%;
+    background-color: rgb(14, 46, 71);
+    color: teal
+}

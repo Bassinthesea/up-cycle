@@ -1,0 +1,73 @@
+div {
+  text-align: center;
+}
+
+#shop{
+    min-height: 100px;
+    width: 100%;
+    background-color: teal;
+    color: whitesmoke;
+}
+
+#up_cycle_apparel{
+    min-height: 100px;
+    width: 100%;
+    background-color: teal;
+    color: greenyellow;
+}
+
+#shop_info{
+    min-height: 250px;
+    width: 100%;
+    background-color: teal;
+    color: greenyellow;
+}
+
+#hoodies{
+    min-height: 100px;
+    width: 100%;
+    background-color: rgb(92, 250, 255);
+    color: black;
+}
+
+#hoodie_display{
+    min-height: 700px;
+    width: 100%;
+    background-color: rgb(92, 250, 255);
+    color: black;
+}
+
+#shirts{
+    min-height: 100px;
+    width: 100%;
+    background-color: rgb(92, 250, 255);
+    color: black;
+}
+
+#shirt_display{
+    min-height: 700px;
+    width: 100%;
+    background-color: rgb(92, 250, 255);
+    color: black;
+}
+
+#mask{
+    min-height: 100px;
+    width: 100%;
+    background-color: rgb(92, 250, 255);
+    color: black;
+}
+
+#mask_display{
+    min-height: 600px;
+    width: 100%;
+    background-color: rgb(92, 250, 255);
+    color: black;
+}
+
+#more_to_come{
+    min-height: 150px;
+    width: 100%;
+    background-color: greenyellow;
+    color: blue;
+}

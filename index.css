@@ -1,0 +1,32 @@
+div {
+  text-align: center;
+}
+
+#logo{
+    background-color: rgba(0, 0, 0, 0.459)
+}
+#Check_Us_Out{
+    min-height: 1000px;
+    width: 100%;
+    background-color: rgb(14, 46, 71);
+    color: whitesmoke
+}
+
+#reachout{
+    min-height: 150px;
+    width: 100%;
+    background-color: rgb(14, 46, 71);
+    color: whitesmoke
+}
+
+#About_Up_Cycle{
+    min-height: 80px;
+    width: 100%;
+    background-color: whitesmoke;
+    color: teal
+}
+#Up_Cycle_Short_Description{
+    min-height: 100px;
+    width: 100%;
+    background-color: whitesmoke;
+}

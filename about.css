@@ -1,0 +1,64 @@
+div{
+    text-align: center;
+}
+
+#About_Up_Cycle{
+    min-height: 75px;
+    width: 100%;
+    background-color: rgb(14, 46, 71);
+    color: teal
+}
+
+#How_It_Started{
+    min-height: 350px;
+    width: 100%;
+    background-color: rgb(14, 46, 71);
+    color: white
+}
+
+#mission{
+    min-height: 450px;
+    width: 100%;
+    background-color: rgb(14, 46, 71);
+}
+
+.row{
+    color: teal
+}
+
+#vision{
+    min-height: 350px;
+    width: 100%;
+    background-color: rgb(14, 46, 71);
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150%;
+}
+
+#partners{
+    min-height: 100px;
+    width: 100%;
+    background-color: rgb(14, 46, 71);
+    color: whitesmoke
+}
+
+#partners_info{
+    min-height: 600px;
+    width: 100%;
+    background-color: rgb(14, 46, 71);
+}
+
+#what_people_say{
+    min-height: 350px;
+    width: 100%;
+    background-color: rgb(14, 46, 71);
+    color: rgba(157,177,191,255)
+}
+
+.card-body{
+    color: rgba(157,177,191,255)
+}
